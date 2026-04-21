@@ -658,7 +658,7 @@ body {
   display: flex;
   align-items: flex-start;
   justify-content: center;
-  padding: 125px 24px 24px 180px; /* top right bottom left */
+  padding: 125px 24px 24px 150px; /* top right bottom left */
   transition: 0.38s ease;
 }
 
